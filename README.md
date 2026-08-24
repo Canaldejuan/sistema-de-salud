@@ -23,11 +23,9 @@ Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando
 > Completa cada sección con 3–10 frases. Sé concreto/a: esta descripción es la que tu IA usará como contexto y la que el docente usará para realimentarte.
 
 ### 1.1 El problema jurídico
-¿Qué problema **real del derecho colombiano** resuelve tu herramienta? ¿Quién lo sufre hoy y cómo lo resuelve sin tu herramienta?
-
+En Colombia sucede mucho que las EPS no le aceptan una cita a la gente, un medicamento o algún tipo de cirugía, y en esos casos las personas no saben como actuar frente a eso. Las personas tienen derecho a presentar una tutela en caso que no les respeten el derecho a la salud, pero mucha gente no sabe como escribir una tutela y por eso pasa que la gente se queda esperando o busca abogados y eso va a tener un costo mayor y todo eso pasa mientras la persona esta enferma. La idea de este chatbot es que las personas puedan decir que tipo de problema y que el chatbot le de un borrador de la tutela hecha.
 ### 1.2 Usuarios
-¿Quién va a usarla? Describe a tu usuario ideal en una frase (ej. *"un arrendatario bogotano que le subieron el canon de arrendamiento más del límite legal"*). Recuerda que al final necesitas **al menos un usuario real** que la pruebe.
-
+El tipo de usuario que utilizaría el chatbot seria alguien que su EPS no le acepto o esta tomando mucho tiempo algo que su doctor ya mando la orden.
 ### 1.3 Qué hace y qué NO hace (alcance)
 | ✅ Sí hace | ❌ No hace |
 | --- | --- |
@@ -42,7 +40,8 @@ Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando
 - [ ] Norma/sentencia 2: [nombre + enlace]
 
 ### 1.5 Nombre y lema
-Un nombre corto para tu herramienta y una frase que explique qué hace (la usarás en la demo del día de presentaciones).
+NOMBRE: TUTELIA
+LEMA: TUTELAMOS TU SALUD
 
 ---
 
