@@ -3,7 +3,9 @@
 **Pontificia Universidad Javeriana · 2026-II · Docente: Pedro Ardila**
 
 > **Estudiante:** JUAN CASTAÑO VARGAS
+
 > **Nombre del proyecto:** [escribe aquí el nombre de tu herramienta]
+
 > **Fecha de inicio:** 2026-08-24
 
 ---
